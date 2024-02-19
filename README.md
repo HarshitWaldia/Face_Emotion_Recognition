@@ -17,13 +17,13 @@ The model used in this project achieves an accuracy of approximately 65%. You ca
 
 ### Real-Time Recognition
 
-1. Navigate to the `realtime` directory.
+1. Navigate to the `realtime` directory : [Real-Time](https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/Real_Time_Emotion_Detection.ipynb)
 2. Run the real-time recognition script.
 3. The script will start a real-time video feed, detecting and recognizing emotions in faces.
 
 ### Input-Based Recognition
 
-1. Navigate to the `input_based` directory.
+1. Navigate to the `input_based` directory : [Input-Based](https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/Input_based_Emotion_Detection.ipynb)
 2. Run the input-based recognition script.
 3. Follow the instructions to select an image or video file from your system for emotion recognition.
 
