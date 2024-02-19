@@ -37,7 +37,7 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal (CC0 1.0) License](https://choosealicense.com/licenses/cc0-1.0/).
+This project is licensed under the [CC0 1.0 Universal (CC0 1.0) License](https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/LICENSE.txt).
 
 ---
 #### Additional Information:
