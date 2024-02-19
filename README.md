@@ -7,7 +7,7 @@ This project utilizes the FER-2013 dataset to recognize facial emotions. It cons
 
 ## Dataset
 
-The FER-2013 dataset is a publicly available dataset containing grayscale images of faces labeled with one of seven emotions: angry, disgust, fear, happy, sad, surprise, or neutral. You can find more information and download the dataset [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data).
+The FER-2013 dataset is a publicly available dataset containing grayscale images of faces labeled with one of seven emotions: angry, disgust, fear, happy, sad, surprise, or neutral. You can find more information and download the dataset [here](https://www.kaggle.com/datasets/msambare/fer2013).
 
 ## Usage
 
