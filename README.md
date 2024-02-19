@@ -13,6 +13,10 @@ The FER-2013 dataset is a publicly available dataset containing grayscale images
 
 The model used in this project achieves an accuracy of approximately 65%. You can download the model from [here](https://github.com/HarshitWaldia/Face_Emotion_Recognition/tree/main/Emotion-Model).
 
+## Model Graph
+
+![Model Graph](https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/Result/model_graph.png)
+
 ## Usage
 
 ### Real-Time Recognition
@@ -38,6 +42,11 @@ For more details about the project, including methodology, results, and analysis
 ## License
 
 This project is licensed under the [CC0 1.0 Universal (CC0 1.0) License](https://choosealicense.com/licenses/cc0-1.0/). See the [LICENSE.txt](https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/LICENSE.txt) file for details.
+
+### Sample Outputs
+
+<img src="https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/Result/output1.png" width="400" height="400"> <img src="https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/Result/output2.png" width="400" height="400">
+<img src="https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/Result/output3.png" width="400" height="400"> <img src="https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/Result/output4.png" width="400" height="400">
 
 ## Contributing
 
