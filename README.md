@@ -48,6 +48,6 @@ This project is licensed under the [CC0 1.0 Universal (CC0 1.0) License](https:/
 <img src="https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/Result/output1.png" width="400" height="400"> <img src="https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/Result/output2.png" width="400" height="400">
 <img src="https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/Result/output3.png" width="400" height="400"> <img src="https://github.com/HarshitWaldia/Face_Emotion_Recognition/blob/main/Result/output4.png" width="400" height="400">
 
-## Contributing
+## Contribution
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
